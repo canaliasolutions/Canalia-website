@@ -278,7 +278,7 @@ export default function Home() {
               href="/formulario"
               className="btn-primary bg-tertiary text-primary hover:bg-opacity-90 text-lg px-12 py-4"
             >
-              Solicitar Consulta Gratuita
+              Solicitar consulta gratuita
             </a>
             <p className="text-sm opacity-90">
               Nada de spam, solo resultados. Cancelable en cualquier momento.
