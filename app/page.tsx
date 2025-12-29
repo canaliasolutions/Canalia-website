@@ -65,7 +65,7 @@ export default function Home() {
               href="/formulario"
               className="btn-primary bg-tertiary text-primary hover:bg-opacity-90"
             >
-              Comenzar Ahora
+              Comenzar ahora
             </a>
             {/* <button className="btn-secondary bg-transparent border-2 border-white text-white hover:text-primary">
               Ver Demo
@@ -79,7 +79,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-primary mb-4">
-              Nuestros Servicios
+              Nuestros servicios
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Ofrecemos soluciones completas de automatización adaptadas a las
@@ -226,7 +226,7 @@ export default function Home() {
             <div className="bg-gray-50 p-8 rounded-2xl">
               <div className="text-center">
                 <h3 className="text-3xl font-bold text-primary mb-4">
-                  Resultados Comprobados
+                  Resultados comprobados
                 </h3>
                 <div className="grid grid-cols-2 gap-6">
                   <div>
