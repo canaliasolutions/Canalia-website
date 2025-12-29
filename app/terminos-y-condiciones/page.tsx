@@ -45,7 +45,7 @@ export default function TerminosCondiciones() {
                                 </h2>
                                 <div className="bg-gray-100 p-4 rounded-lg mb-4">
                                     <p>
-                                        <strong>Entidad Legal:</strong> Wabot Solutions
+                                        <strong>Entidad Legal:</strong> Wabot Solutions, S,EP.
                                     </p>
                                     <p>
                                         <strong>Dirección:</strong> Panamá, Ciudad de Panamá
@@ -59,7 +59,7 @@ export default function TerminosCondiciones() {
                                 </div>
                                 <p>
                                     Estos términos y condiciones regulan el uso de los servicios
-                                    ofrecidos por Wabot Solutions (en adelante "Canalia",
+                                    ofrecidos por Wabot Solutions, S.EP. (en adelante "Canalia",
                                     "nosotros" o "la empresa") a través de su plataforma de
                                     automatización de flujos digitales.
                                 </p>
@@ -337,7 +337,7 @@ export default function TerminosCondiciones() {
                                         <strong>Email:</strong> contacto@canaliasolutions.com
                                     </p>
                                     <p>
-                                        <strong>Empresa:</strong> Wabot Solutions
+                                        <strong>Empresa:</strong> Wabot Solutions, S.EP.
                                     </p>
                                     <p>
                                         <strong>Dirección:</strong> Panamá, Ciudad de Panamá

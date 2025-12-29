@@ -28,10 +28,9 @@ export function FormNavigation({
         disabled={isFirstStep}
         className={`
           px-6 py-3 rounded-lg font-semibold transition-all duration-200
-          ${
-            isFirstStep
-              ? "bg-gray-100 text-gray-400 cursor-not-allowed"
-              : "bg-gray-200 text-gray-700 hover:bg-gray-300"
+          ${isFirstStep
+            ? "bg-gray-100 text-gray-400 cursor-not-allowed"
+            : "bg-gray-200 text-gray-700 hover:bg-gray-300"
           }
         `}
       >
@@ -46,10 +45,9 @@ export function FormNavigation({
             disabled={!canProceed || isSubmitting}
             className={`
               px-8 py-3 rounded-lg font-semibold transition-all duration-200
-              ${
-                canProceed && !isSubmitting
-                  ? "btn-primary"
-                  : "bg-gray-400 text-white cursor-not-allowed"
+              ${canProceed && !isSubmitting
+                ? "btn-primary"
+                : "bg-gray-400 text-white cursor-not-allowed"
               }
             `}
           >
@@ -59,7 +57,7 @@ export function FormNavigation({
                 <span>Enviando...</span>
               </span>
             ) : (
-              "Enviar Formulario"
+              "Enviar formulario"
             )}
           </button>
         ) : (
@@ -69,10 +67,9 @@ export function FormNavigation({
             disabled={!canProceed}
             className={`
               px-6 py-3 rounded-lg font-semibold transition-all duration-200
-              ${
-                canProceed
-                  ? "btn-primary"
-                  : "bg-gray-400 text-white cursor-not-allowed"
+              ${canProceed
+                ? "btn-primary"
+                : "bg-gray-400 text-white cursor-not-allowed"
               }
             `}
           >
